@@ -1,0 +1,8 @@
+grpc:
+  hello:
+    host: localhost
+    port: 3000
+
+logging:
+  level:
+    dev.jihogrammer.grpc.hello: debug
